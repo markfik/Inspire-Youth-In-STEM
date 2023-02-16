@@ -1,0 +1,11 @@
+pi = 3.142
+r = input("enter the radius of the sphere")
+h = input("enter the height if the cylinder")
+surface_area_sphere = (4 * pi * int(r) * int(r))
+print("the s.a of sphere is",surface_area_sphere)
+volume_sphere = (4/3 * pi * int(r) * int(r) * int(r))
+print("the volume of a sphere is", volume_sphere)
+volume_cylinder = (pi * int(r) * int(r) * int(h))
+print("the volume of the cylinder is",volume_cylinder) 
+surface_area_of_cylinder = (2 * pi * int(r) * int(r)) + (pi * 2 * int(r) * int(h))
+print("the surface area of the cylinder is",surface_area_of_cylinder)
