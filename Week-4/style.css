@@ -1,0 +1,32 @@
+#h1_1{
+    font-size: 40px;
+    color: green;
+    align-self: stretch;
+    font-family: 'Courier New', Courier, monospace;
+    max-height: max-content;
+}
+#body1{
+    background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+.p{
+    font-size: large;
+    color: aqua;
+    align-self: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#snd_button{background-color: red;
+    align-self: center;
+    border-radius: 15px;
+    border: none;
+    color: #098eaf;
+    padding: 10px;
+}
+#msg_button{background-color:brown;
+    align-self: center;
+    border-radius: 15px;
+    border: none;
+    color: #098eaf;
+}

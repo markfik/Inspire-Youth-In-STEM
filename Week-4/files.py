@@ -13,5 +13,5 @@ except FileExistsError:
 print(filename)
 '''
 
-file_name =open("C:\\Users\\user\\Documents\\Inspire-Youth-In-STEM\\Week-4\\text.txt",'r')
+file_name =open("C:\\Users\\user\\Documents\\Inspire-Youth-In-STEM\\Week-4\\text.txt",mode='r')
 print(file_name.readlines())
